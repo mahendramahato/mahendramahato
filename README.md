@@ -16,18 +16,46 @@
 
 ### 💼 Projects
 
-#### 🔹 [Bank_App](https://github.com/mahendramahato/Bank_App)
-A secure and functional online banking web application  
-Built with Java Servlets, JSP, and MySQL  
-
-📌 Features: Login, Deposit/Withdraw, Credit Card Authorization, Transaction History, Admin Panel
+🔹 Bank_App
+A secure and functional online banking web application for managing user accounts and transactions.
 
 
-#### 🔹 [WeatherApp](https://github.com/mahendramahato/WeatherApp)
-A simple and responsive Weather App that allows users to get real-time weather updates 
-Built with modern web technologies and APIs to demonstrate front-end and API integration skills.
 
-📌 Features: Search weather by city name, Shows temperature, weather condition, humidity, and wind speed, Real-time weather data using OpenWeatherMap API, Responsive design for mobile and desktop, Clean and minimal UI
+
+📌 Key Features:
+🔐 User authentication with session management
+
+💵 Deposit and withdrawal functionality
+
+💳 Credit card transaction authorization (with limit check)
+
+📃 Transaction history with date filtering
+
+🛡️ Admin panel for managing user accounts and activity
+
+📸 Screenshots:
+(You can add .png or .gif previews here)
+
+🔹 WeatherApp
+A clean and responsive weather application that provides real-time weather updates.
+
+
+
+
+
+📌 Key Features:
+🌍 Search weather by city name
+
+🌡️ Display temperature, condition, humidity, wind speed
+
+🔄 Real-time weather data using OpenWeatherMap API
+
+📱 Fully responsive design for all devices
+
+🎨 Clean, minimal, and intuitive UI
+
+📸 Screenshots:
+(You can add a preview image of the UI here)
 
 ---
 
