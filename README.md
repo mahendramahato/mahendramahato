@@ -24,7 +24,9 @@ Built with Java Servlets, JSP, and MySQL
 
 #### 🔹 [WeatherApp](https://github.com/mahendramahato/WeatherApp)
 A simple and responsive Weather App that allows users to get real-time weather updates 
+
 Built with modern web technologies and APIs to demonstrate front-end and API integration skills.
+
 📌 Features: Search weather by city name, Shows temperature, weather condition, humidity, and wind speed, Real-time weather data using OpenWeatherMap API, Responsive design for mobile and desktop, Clean and minimal UI
 
 ---
