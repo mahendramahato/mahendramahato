@@ -1,89 +1,78 @@
-<h1 align="center">Hi there 👋, I'm Mahendra Mahato</h1>
-<h3 align="center">Java Developer | Web App Builder | Backend Enthusiast</h3>
+# 👋 Hello, I'm Mahendra Mahato
+
+I'm a developer passionate about building secure, scalable, and user-friendly applications. I enjoy backend development in Java and Spring, and creating modern, responsive interfaces with JavaScript frameworks.
 
 ---
 
-### 🚀 About Me
+## ⚙️ Tech Stack
 
-- 🔧 I’m currently developing a **Banking Web Application** using Java Servlets, JSP, and MySQL  
-- 💡 I enjoy solving real-world problems with backend systems and scalable architectures  
-- 🌱 Currently learning **Spring Boot** and **REST APIs**  
-- 👯 I’m open to collaborating on Java or full-stack projects  
-- 🎯 Career Goal: Become a skilled software engineer and tech entrepreneur  
-- ⚡ Fun Fact: I love debugging almost as much as I love coffee ☕
+**Languages & Frameworks:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
----
+**Frontend:**  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
-### 💼 Projects
-
-🔹 Bank_App
-A secure and functional online banking web application for managing user accounts and transactions.
-
-
-
-
-📌 Key Features:
-🔐 User authentication with session management
-
-💵 Deposit and withdrawal functionality
-
-💳 Credit card transaction authorization (with limit check)
-
-📃 Transaction history with date filtering
-
-🛡️ Admin panel for managing user accounts and activity
-
-📸 Screenshots:
-(You can add .png or .gif previews here)
-
-🔹 WeatherApp
-A clean and responsive weather application that provides real-time weather updates.
-
-
-
-
-
-📌 Key Features:
-🌍 Search weather by city name
-
-🌡️ Display temperature, condition, humidity, wind speed
-
-🔄 Real-time weather data using OpenWeatherMap API
-
-📱 Fully responsive design for all devices
-
-🎨 Clean, minimal, and intuitive UI
-
-📸 Screenshots:
-(You can add a preview image of the UI here)
+**DevOps & Tools:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![REST API](https://img.shields.io/badge/REST--API-00BFFF?style=flat&logo=fastapi&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 
 ---
 
-### 🛠️ Tech Stack
+## 💼 Projects
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+### 🔹 [Bank_App](https://github.com/mahendramahato/Bank_App)
 
----
+![Bank_App Banner](./assets/bank_app_banner.png)
 
-### 📈 GitHub Stats
+A secure and functional online banking web application for managing user accounts, transactions, and credit authorizations.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahendramahato&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahendramahato&layout=compact&theme=tokyonight" width="47%" />
-</p>
+**📌 Key Features:**
+- 🔐 User authentication with session management  
+- 💵 Deposit and withdrawal functionality  
+- 💳 Credit card transaction authorization (with ₹1L limit check)  
+- 📃 Transaction history with date range filtering  
+- 🛡️ Admin panel for user and account management
 
----
-
-### 📫 Connect With Me
-
-- 📧 Email: [mahendramahato@users.noreply.github.com](mailto:mahendramahato@users.noreply.github.com)
-- 💼 LinkedIn: [linkedin.com/in/mahendra-mahato](#) *(update with real link)*
+**📸 Screenshots:**  
+![Login Page](./assets/bank_app/login.png)  
+![Transaction History](./assets/bank_app/transaction_history.png)
 
 ---
 
-### 🧠 Let's Build Something Great Together!
+### 🔹 [WeatherApp](https://github.com/mahendramahato/WeatherApp)
+
+![WeatherApp Banner](./assets/weather_app_banner.png)
+
+A clean and responsive weather application that provides real-time weather updates for any city.
+
+**📌 Key Features:**
+- 🌍 Search weather by city name  
+- 🌡️ Display temperature, condition, humidity, and wind speed  
+- 🔄 Real-time weather data using OpenWeatherMap API  
+- 📱 Fully responsive design  
+- 🎨 Clean, minimal, and user-friendly interface
+
+**📸 Screenshots:**  
+![Search Interface](./assets/weather_app/search.png)  
+![Weather Result](./assets/weather_app/result.png)
+
+---
+
+## 📫 Let's Connect
+
+- GitHub: [@mahendramahato](https://github.com/mahendramahato)  
+- Email: mahendramahato@example.com  
+- LinkedIn: *[Add your profile]*
+
+---
+
+> 🚀 *More projects coming soon...*
