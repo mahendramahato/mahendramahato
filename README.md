@@ -9,10 +9,10 @@ I'm a passionate developer focused on building secure, scalable, and intelligent
 ## 🎓 Education
 
 **Bachelor of Science in Computer Science**  
-Boise State University | Expected Graduation: 2027  
+Boise State University | Expected Graduation: 2026  
 - Currently enrolled in CS 497: Generative AI
 - Building autonomous agents and LLM-powered applications
-- Focus on software engineering and AI/ML applications
+- Focus on software engineering, web development, and AI/ML
 
 ---
 
@@ -30,9 +30,11 @@ Boise State University | Expected Graduation: 2027
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
 **AI/ML & Tools:**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -51,30 +53,139 @@ Boise State University | Expected Graduation: 2027
 
 ## 💼 Featured Projects
 
-### 🤖 [Maze-Solving LLM Agent](https://github.com/mahendramahato/maze-solver-agent)
-![AI Agent](https://img.shields.io/badge/AI-Agent-blue?style=flat&logo=robot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
+### 🎨 [3D Portfolio Website](https://github.com/mahendramahato/threejs-portfolio)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-An autonomous LLM-based agent that navigates complex mazes using intelligent pathfinding and decision-making.
+An interactive 3D portfolio website showcasing projects and skills with immersive animations and visual effects.
 
 **🎯 Key Features:**
-- 🧠 **GPT-4o-mini powered** autonomous navigation
-- 🗺️ **Smart backtracking** with 3-tier strategy (nearby search, path history, simple fallback)
-- 🛡️ **100% trap avoidance** through pre-move validation
-- 📊 **16 specialized tools** for sensing, navigation, and backtracking
-- ✅ **100% success rate** on all test mazes (10×10 to 20×20)
+- 🌌 **3D Graphics** with Three.js for immersive experience
+- ⚡ **Smooth animations** and interactive elements
+- 📱 **Fully responsive** across all devices
+- 🎭 **Dynamic lighting** and particle effects
+- 🖼️ **Project showcases** with 3D models
+- 🎨 **Modern UI/UX** with glassmorphism effects
 
-**🔧 Technical Highlights:**
-- Right-hand wall following algorithm with intelligent modifications
-- State management using Sets and Lists for O(1) lookups
-- LangChain agent framework for tool orchestration
-- Comprehensive system prompt engineering for reliable behavior
+**🔧 Tech Stack:**
+- Frontend: React, Three.js, React Three Fiber
+- Animations: Framer Motion, GSAP
+- 3D Modeling: Blender integration
+- Deployment: Vercel/Netlify
 
-**📈 Results:**
-- Solved all 4 test mazes (simple to complex)
-- Zero trap collisions across all runs
-- Optimized path-finding with minimal backtracking
+---
+
+### 👶 [Foster Care Management System](https://github.com/mahendramahato/foster-care-app)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+
+A comprehensive web application for managing foster care operations, tracking child placements, and coordinating with foster families.
+
+**📌 Key Features:**
+- 👨‍👩‍👧‍👦 **Family management** - Register and manage foster families
+- 👶 **Child profiles** - Comprehensive child information and placement history
+- 📋 **Case tracking** - Monitor placement status and case progress
+- 📅 **Visit scheduling** - Schedule and track home visits and checkups
+- 📊 **Reports & analytics** - Generate placement reports and statistics
+- 🔐 **Role-based access** - Separate portals for admins, case workers, and families
+- 📱 **Responsive design** - Access from any device
+
+**🛠️ Tech Stack:**
+- Backend: Java, Spring Boot, Spring Security, Spring Data JPA
+- Database: MySQL with complex relationships
+- Frontend: HTML, CSS, JavaScript, Bootstrap
+- Security: JWT authentication, role-based authorization
+- API: RESTful services with proper documentation
+
+---
+
+### 🎓 [Student Management System](https://github.com/mahendramahato/student-management-system)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+
+A full-featured student management system for educational institutions to manage students, courses, grades, and attendance.
+
+**📌 Key Features:**
+- 👨‍🎓 **Student profiles** - Complete academic records and personal information
+- 📚 **Course management** - Create, update, and assign courses
+- 📊 **Grade tracking** - Record and calculate grades with GPA
+- ✅ **Attendance system** - Daily attendance tracking with reports
+- 📧 **Notifications** - Email alerts for important updates
+- 📈 **Analytics dashboard** - Visual reports on performance metrics
+- 🔍 **Advanced search** - Filter students by various criteria
+- 📄 **PDF reports** - Generate transcripts and certificates
+
+**🛠️ Tech Stack:**
+- Backend: Java, Spring Boot, Spring MVC
+- Frontend: Angular, TypeScript, Bootstrap
+- Database: MySQL with normalized schema
+- Reports: JasperReports for PDF generation
+- API: RESTful architecture with Swagger documentation
+
+---
+
+### 😊 [Emotion Detection App](https://github.com/mahendramahato/emotion-detection-app)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+A real-time emotion detection application using computer vision and deep learning to recognize facial expressions.
+
+**📌 Key Features:**
+- 📸 **Real-time detection** - Live webcam emotion recognition
+- 🎭 **7 emotions** - Happy, Sad, Angry, Surprised, Fear, Disgust, Neutral
+- 📊 **Confidence scores** - Shows probability for each emotion
+- 📈 **Analytics** - Track emotion patterns over time
+- 💾 **Session recording** - Save detection results for analysis
+- 🎨 **Visual feedback** - Color-coded emotion indicators
+- ⚡ **Fast processing** - Optimized for real-time performance
+
+**🛠️ Tech Stack:**
+- ML Framework: TensorFlow, Keras
+- Computer Vision: OpenCV
+- Model: CNN trained on FER2013 dataset
+- Backend: Flask API
+- Frontend: HTML, CSS, JavaScript
+- Deployment: Docker containerization
+
+**🧠 Model Performance:**
+- Accuracy: ~70% on test dataset
+- Real-time: 30+ FPS processing
+- Lightweight: Optimized for CPU inference
+
+---
+
+### 🤖 [AI Agent - Generative AI Course](https://github.com/mahendramahato/genai-agent) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat)
+
+**[🚧 Currently in Development - CS 497]**
+
+An advanced AI agent project for the Generative AI course, exploring autonomous decision-making and tool-based interactions.
+
+**🎯 Project Goals:**
+- 🤖 Building autonomous LLM-based agents
+- 🛠️ Custom tool development for agent capabilities
+- 🧠 Prompt engineering and system design
+- 🔄 Multi-step reasoning and planning
+- 📊 Performance evaluation and optimization
+
+**🔧 Technologies:**
+- LangChain agent framework
+- GPT-4 / Claude integration
+- Custom tool implementations
+- Python for agent logic
+
+**📚 Learning Focus:**
+- Agent architecture patterns
+- Tool-use strategies
+- State management
+- Evaluation metrics
 
 ---
 
@@ -83,21 +194,15 @@ An autonomous LLM-based agent that navigates complex mazes using intelligent pat
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 
-A secure and functional online banking web application for managing user accounts, transactions, and credit authorizations.
+A secure online banking application with comprehensive transaction management and credit authorization.
 
 **📌 Key Features:**
-- 🔐 **User authentication** with session management and security
-- 💵 **Account operations**: deposit, withdrawal, balance inquiry
-- 💳 **Credit card management** with ₹1L transaction limit enforcement
-- 📃 **Transaction history** with date range filtering and export
-- 🛡️ **Admin panel** for user and account management
-- 🔄 **RESTful API** design with proper error handling
-
-**🛠️ Tech Stack:**
-- Backend: Java, Spring Boot, Spring Security
-- Database: MySQL with JPA/Hibernate
-- Frontend: HTML, CSS, JavaScript
-- Security: BCrypt password hashing, session management
+- 🔐 **Secure authentication** with session management
+- 💵 **Banking operations** - Deposit, withdrawal, transfer
+- 💳 **Credit card system** - Transaction authorization with limits
+- 📃 **Transaction history** - Detailed records with filtering
+- 🛡️ **Admin dashboard** - User and account management
+- 🔄 **RESTful API** - Well-documented endpoints
 
 ---
 
@@ -106,45 +211,44 @@ A secure and functional online banking web application for managing user account
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![API](https://img.shields.io/badge/API-OpenWeatherMap-orange?style=flat)
 
-A clean and responsive weather application providing real-time weather updates for any city worldwide.
+A responsive weather application providing real-time weather information for cities worldwide.
 
 **📌 Key Features:**
-- 🌍 **Search weather** by city name with autocomplete
-- 🌡️ **Comprehensive data**: temperature, conditions, humidity, wind speed, pressure
-- 🔄 **Real-time updates** using OpenWeatherMap API
-- 📱 **Fully responsive** design for all devices
-- 🎨 **Modern UI/UX** with clean, minimal interface
-- 🌓 **Dark/Light mode** support
-
-**🛠️ Tech Stack:**
-- Frontend: React, JavaScript, CSS3
-- API Integration: OpenWeatherMap API
-- State Management: React Hooks
-- Responsive Design: CSS Flexbox/Grid
+- 🌍 **Global weather search** with city autocomplete
+- 🌡️ **Detailed weather data** - Temperature, humidity, wind, pressure
+- 🔄 **Live updates** via OpenWeatherMap API
+- 📱 **Mobile responsive** design
+- 🎨 **Modern UI** with weather icons and backgrounds
 
 ---
 
 ## 🎯 Skills & Expertise
 
-**Software Development:**
-- Full-stack web development (Java/Spring + React/Angular)
-- RESTful API design and implementation
-- Database design and optimization (SQL & NoSQL)
-- Secure authentication and authorization systems
-- Microservices architecture
+**Full-Stack Development:**
+- Backend: Java/Spring Boot, Python/Flask
+- Frontend: React, Angular, Three.js, HTML/CSS/JavaScript
+- Database: MySQL, MongoDB, JPA/Hibernate
+- API: RESTful design, Swagger documentation
+- Architecture: MVC, Microservices
 
 **AI & Machine Learning:**
-- LLM agent development with LangChain
-- Prompt engineering and system design
-- Tool-based AI interaction patterns
-- Autonomous agent architecture
+- Computer Vision: OpenCV, TensorFlow
+- NLP: LangChain, OpenAI API integration
+- Model Training: CNN for image classification
+- Agent Development: Autonomous AI systems
 
-**Development Practices:**
-- Git version control and collaboration
+**3D Graphics & Animation:**
+- Three.js, React Three Fiber
+- 3D modeling integration
+- Animation libraries (Framer Motion, GSAP)
+- WebGL optimization
+
+**Software Engineering:**
+- Git version control & GitHub workflows
 - Agile/Scrum methodologies
-- Test-driven development (TDD)
-- API documentation with Postman/Swagger
+- Unit & integration testing
 - Docker containerization
+- CI/CD pipelines
 
 ---
 
@@ -158,20 +262,22 @@ A clean and responsive weather application providing real-time weather updates f
 
 ## 🏆 Achievements
 
-- 🎓 **CS 497 - Generative AI**: Built autonomous maze-solving agent (190/190 points)
-- 🏦 **Bank Application**: Implemented secure transaction system with credit authorization
-- 🌐 **Full-Stack Development**: Multiple production-ready applications
-- 🤝 **Open Source**: Contributing to community projects
+- 🎓 **CS 497 - Generative AI**: Building autonomous AI agents (In Progress)
+- 🎨 **3D Web Development**: Created interactive portfolio with Three.js
+- 🤖 **ML Model**: Trained emotion detection CNN with 70% accuracy
+- 👨‍👩‍👧 **Social Impact**: Foster care management system for real-world use
+- 🏆 **Full-Stack Projects**: Multiple production-ready applications
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced LLM agent architectures and multi-agent systems
-- Cloud deployment with AWS/Azure
-- Microservices with Spring Cloud
-- Advanced React patterns and performance optimization
-- Machine Learning fundamentals with TensorFlow/PyTorch
+- Advanced AI agent architectures and reasoning systems
+- Three.js advanced techniques and shader programming
+- Deep learning with PyTorch
+- Cloud deployment (AWS, Azure)
+- Microservices architecture with Spring Cloud
+- Advanced React patterns and Next.js
 
 ---
 
@@ -187,19 +293,20 @@ A clean and responsive weather application providing real-time weather updates f
 
 ---
 
-## 💡 Fun Facts
+## 💡 About Me
 
-- 🎮 Love solving algorithmic puzzles and maze challenges
-- 🤖 Fascinated by the potential of AI agents and autonomous systems
-- 🌐 Enjoy building applications that solve real-world problems
-- 📚 Continuous learner exploring new technologies
-- ☕ Coffee-powered coding sessions are my favorite
+- 🎨 Passionate about creating immersive web experiences with 3D graphics
+- 🤖 Fascinated by AI and building intelligent autonomous systems
+- 👨‍💻 Love solving real-world problems through technology
+- 📚 Continuous learner exploring cutting-edge technologies
+- 🌐 Believer in using tech for social impact (foster care, education)
+- ☕ Coffee enthusiast and late-night coder
 
 ---
 
 <div align="center">
 
-### 🚀 *"Building intelligent systems, one line of code at a time"*
+### 🚀 *"Crafting intelligent solutions with code, creativity, and AI"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mahendramahato&color=blueviolet)
 
@@ -209,6 +316,7 @@ A clean and responsive weather application providing real-time weather updates f
 
 ---
 
-> 💼 Open to collaboration on interesting projects  
-> 🎓 Available for internships and co-op opportunities  
-> 📬 Always happy to discuss tech, AI, and software development
+> 💼 Open to collaboration on AI, web development, and social impact projects  
+> 🎓 Available for internships and co-op opportunities (Summer 2026)  
+> 📬 Always excited to discuss tech, AI, 3D web, and innovative ideas  
+> 🤝 Let's build something amazing together!
