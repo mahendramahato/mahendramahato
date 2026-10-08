@@ -17,7 +17,7 @@ I'm a full-stack engineer with 3+ years of experience shipping web applications:
 
 ## 🚀 Featured Projects
 
-### 🎵 [Soundly — Distributed Music Streaming Platform](https://m-stream.duckdns.org) · [code](https://github.com/mahendramahato/i_play)
+### 🎵 [Soundly — Distributed Music Streaming Platform](https://m-stream.duckdns.org)
 `React` `Spring Boot ×3` `Redis` `MySQL` `Docker` `Oracle Cloud` `Prometheus` `Grafana`
 - Built and deployed a music streaming service on Oracle Cloud with Docker, HTTPS, and CI/CD gated by **49 automated tests**.
 - Load-tested at **~600 req/s, 57 ms p95, 0% errors**. Chaos testing exposed a cache outage that hung the API for 5 minutes, which I cut to a **0.2 s fallback**.
