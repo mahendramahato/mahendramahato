@@ -23,11 +23,11 @@ I'm a full-stack engineer with 3+ years of experience shipping web applications:
 - Load-tested at **~600 req/s, 57 ms p95, 0% errors**. Chaos testing exposed a cache outage that hung the API for 5 minutes, which I cut to a **0.2 s fallback**.
 - Stateless HMAC-signed session auth across 3 instances, plus Prometheus/Grafana monitoring with email alerting.
 
-### 🤖 [Pipeline Copilot — Autonomous Incident Diagnosis for Data Pipelines](https://pipeline-copilot.duckdns.org) · [code](https://github.com/mahendramahato/pipeline-copilot)
-`LangGraph` `MCP` `RAG` `Python` `Docker` `GitHub Actions`
-- An AI on-call agent that diagnoses failures in a live Kafka/Spark/AWS pipeline using **21 read-only tools** across Airflow, Athena, Glue, and Docker.
-- Verifiable diagnoses: SQL checks, question screening, and evidence that must match tool output word for word. It diagnosed **all 7 injected failure types** correctly at **~$0.09 per investigation**.
-- Its monitor alerts only on new failures, and it caught a **real silent Glue partition failure** in production.
+### 🤖 [Pipeline Copilot — AI On-Call Agent that Diagnoses and Fixes Data Pipelines](https://pipeline-copilot.duckdns.org) · [code](https://github.com/mahendramahato/pipeline-copilot)
+`LangGraph` `MCP` `RAG` `Human-in-the-loop` `Python` `FastAPI` `React` `Docker` `GitHub Actions`
+- An AI on-call agent that diagnoses failures in a live Kafka/Spark/AWS pipeline using **21 read-only tools** across Airflow, Athena, Glue, Docker, and host memory/CPU/disk.
+- **Fixes with a human in the loop:** it proposes typed actions (re-run a task, backfill a day, restart a container), pauses for approval with a LangGraph interrupt, runs them through an MCP server the model never sees, then **verifies** the run, the data, and the health checks.
+- Verifiable diagnoses: evidence must match tool output word for word. It diagnosed **all 7 injected failure types** correctly at **~$0.09 per investigation** and caught a **real silent Glue partition failure** in production.
 
 ### 🌎 [Real-Time Weather & Seismic Anomaly Detection Pipeline](https://weather-seismic.duckdns.org) · [code](https://github.com/mahendramahato/weather-seismic-pipeline)
 `Kafka` `Spark Structured Streaming` `S3` `AWS Glue` `Athena` `Airflow` `FastAPI` `DuckDB` `React`
@@ -63,6 +63,7 @@ I'm a full-stack engineer with 3+ years of experience shipping web applications:
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
@@ -89,6 +90,7 @@ I'm a full-stack engineer with 3+ years of experience shipping web applications:
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/GPT--4o-412991?style=flat&logo=openai&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB%20(RAG)-FF6B6B?style=flat)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
