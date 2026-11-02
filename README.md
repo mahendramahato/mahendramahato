@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://mahendra-mahato.com"><img src="https://img.shields.io/badge/Portfolio-mahendra--mahato.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/mahendramahato"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mahendra-mahato/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:mahendramahato@u.boisestate.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
